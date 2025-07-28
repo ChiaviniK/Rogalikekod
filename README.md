@@ -133,7 +133,7 @@ Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o
 📧 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 
-Kauã Chiavini - chiavinikau@gmail.com
+Luiz Chiavini - luizchiavini@gmail.com
 
 GitHub: @ChiaviniK
 
